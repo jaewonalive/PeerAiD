@@ -1,0 +1,1 @@
+{"epochs":300 , "lr_student" :0.1, "lr_peer":0.1, "lr_decay_epochs_peer":[214, 259, 284], "lr_decay_epochs_student":[214, 259, 284], "batch_size":128 , "weight_decay":0.0002}

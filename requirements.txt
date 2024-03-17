@@ -1,0 +1,36 @@
+certifi==2023.11.17
+chardet==4.0.0
+charset-normalizer==3.3.2
+easydict==1.10
+filelock==3.13.1
+fsspec==2023.10.0
+geotorch==0.3.0
+huggingface-hub==0.19.4
+idna==2.10
+imageio==2.33.0
+Jinja2==3.1.2
+MarkupSafe==2.1.3
+numpy==1.26.2
+packaging==23.2
+pandas==1.3.5
+Pillow==10.1.0
+python-dateutil==2.8.2
+pytorchcv==0.0.67
+pytz==2023.3.post1
+PyYAML==6.0
+requests==2.25.1
+robustbench @ git+https://github.com/RobustBench/robustbench.git@47bf370c2328bb4b78425ea06574bafec1ea7b42
+scipy==1.11.4
+six==1.16.0
+timm==0.6.13
+--extra-index-url https://download.pytorch.org/whl/cu117
+torch==1.13.1+cu117
+--extra-index-url https://download.pytorch.org/whl/cu117
+torchaudio==0.13.1+cu117
+torchdiffeq==0.2.3
+--extra-index-url https://download.pytorch.org/whl/cu117
+torchvision==0.14.1+cu117
+tqdm==4.56.2
+typing_extensions==4.8.0
+tzdata==2023.3
+urllib3==1.26.18

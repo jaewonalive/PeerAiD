@@ -1,0 +1,1 @@
+python3 main.py --p_type resnet18 --s_type resnet18 --kd --k_train 10 --exp_id 1 --temperature 5 --gamma1 1 --gamma2 0.1 --re_kd_temperature 1 --config_path ./configs/PeerAiD_resnet18_cifar10.json --AA --dataset cifar10 --fgsm_eval --pgd_eval --lamb1 0 --lamb2 1 --lamb3 1 --swa_s

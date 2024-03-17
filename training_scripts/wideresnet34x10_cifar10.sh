@@ -1,0 +1,1 @@
+python3 main.py --p_type wideresnet34x10 --s_type wideresnet34x10 --kd --k_train 10 --exp_id 4 --temperature 5 --gamma1 1 --gamma2 0.1 --re_kd_temperature 1 --config_path ./configs/PeerAiD_wideresnet34x10_cifar10.json --AA --dataset cifar10 --fgsm_eval --pgd_eval --lamb1 0 --lamb2 1 --lamb3 1 --swa_s
