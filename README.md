@@ -2,6 +2,7 @@
 
 * Code for CVPR 2024 "[PeerAiD : Improving Adversarial Distillation from a Specialized Peer Tutor](https://arxiv.org/abs/2403.06668)".
 * This repository includes the training code and scripts to reproduce the results of [the paper](https://arxiv.org/abs/2403.06668).
+* The [video](https://www.youtube.com/watch?v=qxQiHhbQ8kU), [slides](https://drive.google.com/drive/folders/1eN4oImgI4-IqM9XpM6scHXYwZ9dbaRcO?usp=sharing) and [poster](https://drive.google.com/file/d/1LKaqoHAtAnGfOXzyHDCx6uAFKmyWP2ut/view?usp=sharing) are available.
 
 ![peeraid_motivation](figs/peeraid_motivation.PNG)
 
